@@ -15,5 +15,5 @@ console.log(anoDeNascimento)
 let imc = (peso / (altura * altura));
 console.log(imc)
 
-console.log("Olá", nome, ", você tem", idade, " anos, nasceu em", anoDeNascimento, ", tem", altura, " de altura, pesa", peso, "kg seu IMC é", imc, " Kg/m2")
+console.log("Olá" + nome +  ", você tem" + idade + " anos, nasceu em" + anoDeNascimento + ", tem" + altura + " de altura, pesa" + peso + "kg seu IMC é" + imc + " Kg/m2")
 
